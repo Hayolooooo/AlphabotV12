@@ -1,0 +1,103 @@
+{
+  "users": {
+    "918156874290@s.whatsapp.net": {
+      "afkTime": -1,
+      "banned": false,
+      "afkReason": ""
+    },
+    "6289652333947@s.whatsapp.net": {
+      "afkTime": -1,
+      "banned": false,
+      "afkReason": ""
+    },
+    "6282179965716@s.whatsapp.net": {
+      "afkTime": -1,
+      "banned": false,
+      "afkReason": ""
+    },
+    "6285733202194@s.whatsapp.net": {
+      "afkTime": -1,
+      "banned": false,
+      "afkReason": ""
+    },
+    "6281261724092@s.whatsapp.net": {
+      "afkTime": -1,
+      "banned": false,
+      "afkReason": ""
+    },
+    "62895340684706@s.whatsapp.net": {
+      "afkTime": -1,
+      "banned": false,
+      "afkReason": ""
+    },
+    "6282141476378@s.whatsapp.net": {
+      "afkTime": -1,
+      "banned": false,
+      "afkReason": ""
+    }
+  },
+  "chats": {
+    "918156874290@s.whatsapp.net": {
+      "mute": false,
+      "setWelcome": "",
+      "setLeave": ""
+    },
+    "120363022682639473@g.us": {
+      "mute": false,
+      "setWelcome": "",
+      "setLeave": ""
+    },
+    "6289652333947@s.whatsapp.net": {
+      "mute": false,
+      "setWelcome": "",
+      "setLeave": ""
+    },
+    "120363041718794121@g.us": {
+      "mute": false,
+      "setWelcome": "",
+      "setLeave": ""
+    },
+    "120363039257842468@g.us": {
+      "mute": false,
+      "setWelcome": "",
+      "setLeave": ""
+    }
+  },
+  "database": {},
+  "game": {
+    "math": [],
+    "family100": [],
+    "tebakgambar": [],
+    "tebakkata": [],
+    "tebakbendera": [],
+    "siapaaku": [],
+    "tebakkalimat": [],
+    "caklontong": [],
+    "susunkata": [],
+    "tekateki": [],
+    "tebakkabupaten": [],
+    "tebakkimia": [],
+    "tebaklirik": [],
+    "tebaktebakan": []
+  },
+  "others": {},
+  "sticker": {},
+  "absen": {},
+  "cmd": {},
+  "settings": {
+    "918156874290@s.whatsapp.net": {
+      "autobio": true,
+      "available": false,
+      "composing": false,
+      "recording": false,
+      "autorespond": false
+    },
+    "6289652333947@s.whatsapp.net": {
+      "autobio": true,
+      "available": false,
+      "composing": false,
+      "recording": false,
+      "autorespond": false
+    }
+  }
+}
