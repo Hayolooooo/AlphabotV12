@@ -25,10 +25,10 @@ global.language = indonesia  //change indonesia to english if you don't understa
 // Other
 global.botname = "Arulbot" //namabot kalian
 global.ownername= "ᴹᴿ᭄ Arulོ ×፝֟͜×" //nama kalian
-global.myweb ="https://www.instagram.com/sahrulilham_09/" //bebas asal jan hapus
+global.myweb ="https://chat.whatsapp.com/GAuAnrTrjLlKhAUPoS5xM2" //bebas asal jan hapus
 global.youtube = "tiktok.com/@sabun_boy" //bebas asal jan hapus
 global.github = "https://Arulllllllllllll" //bebas
-global.email = "zeeoneofc@gmail.com" //bebas
+global.email = "zazilong0@gmail.com" //bebas
 global.region = "Indonesia" //bebas
 global.timezone = 'Asia/Jakarta' //  timezone wib
 global.owner = ["62895340684706"] //ganti agar fitur owner bisa di gunakan
