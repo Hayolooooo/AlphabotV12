@@ -1,0 +1,210 @@
+// Cuma Gabut Ygy🗿
+
+
+
+
+   case 'mapel':
+  {
+   const sections = 
+  [
+    {
+	title: "List Mapel XII IS³",
+	rows: 
+  [
+	{
+	    title: "Mapel Senin", 
+	    rowId: "msenin"
+  },
+    {
+	    title: "Mapel Selasa", 
+	    rowId: "mselasa"
+  },
+    {
+	    title: "Mapel Rabu", 
+	    rowId: "mrabu"
+   },
+     {
+	    title: "Mapel Kamis", 
+	    rowId: "mkamis"
+   },
+     {
+	    title: "Mapel Jumat", 
+	    rowId: "mjumat"
+   },
+     {
+	    title: "Mapel Sabtu", 
+	    rowId: "msabtu"
+   },
+     {
+	    title: "Mapel Minggu", 
+	    rowId: "mminggu"
+	   },
+     ]
+   }    
+ ]
+
+  const listMessage = 
+  {
+   text: `Hallo ${m.pushName}
+Silahkan Klik Button Dibawah 
+Untuk Melihat List Mapel`,
+   footer: "XII IS³",
+   buttonText: "Klik Disini",
+   sections
+  }
+
+  const sendm =  alpha.sendMessage
+         ( from, listMessage,
+       { quoted : m 
+     }
+   )
+ }
+  break
+
+case 'msenin': {
+teks = `╭─❒「 Mapel Senin 」
+empty
+├
+├
+├
+├
+╰❒`
+let buttons = [
+{buttonId: `mapel`, buttonText: {displayText: 'Back'}, type: 1}
+]
+let buttonMessage = {
+image: { url: 'https://telegra.ph/file/5c6eef2d8d0457fb9f25e.jpg' },
+caption: teks,
+footer: "XII IS³",
+buttons: buttons,
+headerType: 4
+}
+alpha.sendMessage(m.chat, buttonMessage, { quoted: m })
+}
+break
+
+case 'mselasa': {
+teks = `╭─❒「 Mapel Selasa 」
+├
+├
+├
+├
+╰❒`
+let buttons = [
+{buttonId: `mapel`, buttonText: {displayText: 'Back'}, type: 1}
+]
+let buttonMessage = {
+image: { url: 'https://telegra.ph/file/5c6eef2d8d0457fb9f25e.jpg' },
+caption: teks,
+footer: "XII IS³",
+buttons: buttons,
+headerType: 4
+}
+alpha.sendMessage(m.chat, buttonMessage, { quoted: m })
+}
+break
+
+case 'mrabu': {
+teks = `╭─❒「Mapel Rabu 」
+├
+├
+├
+├
+╰❒`
+let buttons = [
+{buttonId: `mapel`, buttonText: {displayText: 'Back'}, type: 1}
+]
+let buttonMessage = {
+image: { url: 'https://telegra.ph/file/5c6eef2d8d0457fb9f25e.jpg' },
+caption: teks,
+footer: "XII IS³",
+buttons: buttons,
+headerType: 4
+}
+alpha.sendMessage(m.chat, buttonMessage, { quoted: m })
+}
+break
+
+case 'mkamis': {
+teks = `╭─❒「 Mapel Kamis 」
+├
+├
+├
+├
+╰❒`
+let buttons = [
+{buttonId: `mapel`, buttonText: {displayText: 'Back'}, type: 1}
+]
+let buttonMessage = {
+image: { url: 'https://telegra.ph/file/5c6eef2d8d0457fb9f25e.jpg' },
+caption: teks,
+footer: "XII IS³",
+buttons: buttons,
+headerType: 4
+}
+alpha.sendMessage(m.chat, buttonMessage, { quoted: m })
+}
+break
+
+case 'mjumat': {
+teks = `╭─❒「 Mapel Jumat 」
+├
+├
+├
+├
+╰❒`
+let buttons = [
+{buttonId: `mapel`, buttonText: {displayText: 'Back'}, type: 1}
+]
+let buttonMessage = {
+image: { url: 'https://telegra.ph/file/5c6eef2d8d0457fb9f25e.jpg' },
+caption: teks,
+footer: "XII IS³",
+buttons: buttons,
+headerType: 4
+}
+alpha.sendMessage(m.chat, buttonMessage, { quoted: m })
+}
+break
+
+case 'msabtu': {
+teks = `╭─❒「 Mapel Sabtu 」
+├
+├
+├
+├
+╰❒`
+let buttons = [
+{buttonId: `mapel`, buttonText: {displayText: 'Back'}, type: 1}
+]
+let buttonMessage = {
+image: { url: 'https://telegra.ph/file/5c6eef2d8d0457fb9f25e.jpg' },
+caption: teks,
+footer: "XII IS³",
+buttons: buttons,
+headerType: 4
+}
+alpha.sendMessage(m.chat, buttonMessage, { quoted: m })
+}
+break
+
+case 'mminggu': {
+teks = `╭─❒「 Minggu 」
+├
+├
+├
+├
+╰❒`
+let buttons = [
+{buttonId: `mapel`, buttonText: {displayText: 'Back'}, type: 1}
+]
+let buttonMessage = {
+image: { url: 'https://telegra.ph/file/5c6eef2d8d0457fb9f25e.jpg' },
+caption: teks,
+footer: "XII IS³",
+buttons: buttons,
+headerType: 4
+}
+alpha.sendMessage(m.chat, buttonMessage, { quoted: m })
+}
+break
