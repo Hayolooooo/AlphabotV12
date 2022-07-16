@@ -11,7 +11,7 @@ global.APIs = {
 // Free apikey
 global.APIKeys = {
 	'https://api.zeeoneofc.xyz': 'lW7MqmH8',  
-	'https://zenzapis.xyz': 'BagasPrdn', 
+	'https://zenzapis.xyz': '91d438af27', 
 }
 
 // setting 
