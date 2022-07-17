@@ -9,7 +9,7 @@ global.APIs = {
 
 // Free apikey
 global.APIKeys = {
-	'https://api.zeeoneofc.xyz': 'lW7MqmH8',  
+	'https://api.zeeoneofc.xyz': 'MijBOnoH',  
 }
 
 // setting 
